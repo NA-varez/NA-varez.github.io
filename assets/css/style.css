@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.circular-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.project-card {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.project-card img {
+  max-width: 300px;
+  margin-bottom: 10px;
+}
