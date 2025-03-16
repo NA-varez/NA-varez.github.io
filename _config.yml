@@ -1,5 +1,7 @@
 title: Nicolas Alvarez
-#logo: docs/assets/headshot_circle.png
+logo: assets/images/headshot_circle.png
 description: Electrical Engineer
-#show_downloads: true
-theme: jekyll-theme-minimal
+show_downloads: false
+remote_theme: jekyll-theme-minimal
+plugins:
+- jekyll-remote-theme
