@@ -37,14 +37,17 @@ State machine
 Data hazards
 
 
-## PCB Hardware
+## Electronics and PCB Hardware
+
 
 ### [QuAD RC2](projects/quad-rc2.md)
-KiCAD, DFM, SI, 
+KiCAD, DFM, SI
 
 ### [Nixie Tube Tester](projects/nixie-tube-tester.md)
 Altium, interfacing a nixie tube
 
+### [Solar Phone Charger](projects/solar-phone-charger)
+Buck topology, load, line regulation
 
 
 
